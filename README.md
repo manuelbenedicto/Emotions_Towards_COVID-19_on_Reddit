@@ -1,6 +1,6 @@
 # COVID-19 Reddit Comments Sentiment Analysis
 
-## Positive and Negative Comments throughout the pandemic
+## Positive and Negative Comments throughout the Pandemic
 Biggest circles represent comments with highest votes counts.
 
 ![January Comments](https://github.com/manuelbenedicto/COVID-19-Reddit-Comments-Sentiment-Analysis/blob/master/january_comments.png)
@@ -11,11 +11,11 @@ Biggest circles represent comments with highest votes counts.
 
 ![April Comments](https://github.com/manuelbenedicto/COVID-19-Reddit-Comments-Sentiment-Analysis/blob/master/april_comments.png)
 
-## Top Comments throughout the pandemic
+## Top Comments throughout the Pandemic
 
 ![Top Comments](https://github.com/manuelbenedicto/COVID-19-Reddit-Comments-Sentiment-Analysis/blob/master/top_comments.png)
 
-## Emotion trend of comments related to COVID-19
+## Emotion Trend of Comments Related to COVID-19
 
 ![Emotion Trends](https://github.com/manuelbenedicto/COVID-19-Reddit-Comments-Sentiment-Analysis/blob/master/emotion_trends.png)
 
