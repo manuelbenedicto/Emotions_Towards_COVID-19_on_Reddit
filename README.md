@@ -2,6 +2,10 @@
 
 Updated Jupyter Notebook: https://www.kaggle.com/manuelbenedicto/emotions-towards-covid-19-on-reddit
 
+## Interest on COVID-19 among Reddit users
+
+![covid19_comments](https://github.com/manuelbenedicto/COVID-19-Reddit-Comments-Sentiment-Analysis/blob/master/covid19_comments.png)
+
 ## Positive and Negative Comments throughout the Pandemic
 Biggest circles represent comments with highest votes counts.
 
